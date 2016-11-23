@@ -15,7 +15,7 @@ int asciivalue;
 printf("enter any character");
 scanf("%c",&c);
 asciivalue=c;
-printf("ASCII value of given character:%d",asciivalue);
+printf("ASCII value of given character:%d\n",asciivalue);
 return 0;
 
 }
