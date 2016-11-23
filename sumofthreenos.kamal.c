@@ -1,7 +1,7 @@
 /*
 student name:kamal rokka chhetri
 subject:programming fundamental
-program:w.a.p to find su of digits of three nos.
+program:w.a.p to find sum of digits of three nos.
 roll no.
 date:31,nov,2016
 */
