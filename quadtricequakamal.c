@@ -19,8 +19,8 @@ printf("enter value of c=\n");
 scanf("%f",&c);
 e=b*b-4*a*c;
 printf("value of e=%f\n",e);
-x=pow(e,2)/2*a;
-y=-(pow(e,2)/2*a);
+x=pow(e,0.5)/2*a;
+y=-(pow(e,0.5)/2*a);
 printf("quadratic equation if value is positive=%f\n",x);
 printf("quadratic equation if value is negative=%f",y);
 
